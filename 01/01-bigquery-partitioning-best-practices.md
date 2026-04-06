@@ -61,28 +61,47 @@ Bhai:
 
 ---
 
-Q4: Choosing the Best BigQuery Partitioning Strategy for Fast Data Ingestion
-You are ingesting data that is spread out over a wide range of dates into BigQuery at a fast rate. You need to partition the table to make queries performant.
-What should you do?
-A. Create an ingestion-time partitioned table with daily partitioning type.
-B. Create an ingestion-time partitioned table with yearly partitioning type.
-C. Create an integer-range partitioned table.
-D. Create a time-unit column-partitioned table with yearly partitioning type.
-Guess Your Ans
-Check Your Ans
-Here is Your Ans
-Correct Answer: A
-Feedback:
-A. Correct. A daily partition type is the most suitable given the volume of the data 
-and the range of dates.
-B. Incorrect. A yearly partition type has too much data per partition, which makes 
-queries inefficient.
-C. Incorrect. An integer-range partition type is not appropriate given that the data 
-is defined by dates.
-D. Incorrect. A yearly partition type has too much data per partition, which makes 
-queries inefficient.
-Bhai 🔥 **yeh important correction hai — aur yeh exam ka REAL trap hai**. Tu confuse hona bilkul normal hai. Chal isko crystal clear karte hain 👇
+## **Q4: Choosing the Best BigQuery Partitioning Strategy for Fast Data Ingestion**
 
+### **Problem**
+You are ingesting data that is spread out over a wide range of dates into **BigQuery** at a fast rate. You need to **partition the table** to make queries **performant**.
+
+---
+
+### **Options**
+- **A.** Create an **ingestion-time partitioned table** with **daily partitioning type**.  
+- **B.** Create an **ingestion-time partitioned table** with **yearly partitioning type**.  
+- **C.** Create an **integer-range partitioned table**.  
+- **D.** Create a **time-unit column-partitioned table** with **yearly partitioning type**.  
+
+---
+
+### **Correct Answer**
+👉 **A. Create an ingestion-time partitioned table with daily partitioning type**
+
+---
+
+### **Explanation**
+
+- **A. Correct ✅**  
+  A **daily partition type** is the most suitable given the **high data volume** and **wide date range**.  
+  It improves **query performance** and enables **efficient data pruning**.
+
+- **B. Incorrect ❌**  
+  A **yearly partition** contains **too much data per partition**, making queries **slow and inefficient**.
+
+- **C. Incorrect ❌**  
+  An **integer-range partition** is **not suitable** because the data is based on **dates**, not numeric ranges.
+
+- **D. Incorrect ❌**  
+  A **yearly partition type** again results in **large partitions**, reducing **query efficiency**.
+
+---
+
+### **Key Takeaways**
+- Use **daily partitioning** for **high-volume + wide date range data**  
+- Avoid **large partitions** (e.g., yearly) → **poor performance**  
+- Match partitioning strategy with **data type (date vs integer)**  
 ---
 
 # ✅ Correct Answer

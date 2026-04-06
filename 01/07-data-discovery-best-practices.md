@@ -1,52 +1,64 @@
- # 🧠 DATA DISCOVERY (SMART NOTES)
-🔑 Rule
+# 🧠 DATA DISCOVERY (SMART NOTES)
 
-👉 Search + ownership + meaning → Metadata (Tags)
+## 🔑 Rule
+👉 **Search + ownership + meaning → Metadata (Tags)**
 
-⚙️ BEST TOOL
+---
 
+## ⚙️ BEST TOOL
 👉 Data Catalog
 
-tags add karta hai ✔️
-ownership define ✔️
-searchability improve ✔️
-⚡ WHAT TAGS DO
-data ka meaning
-column description
-owner info
-business context
+- tags add karta hai ✔️  
+- ownership define ✔️  
+- searchability improve ✔️  
+
+---
+
+## ⚡ WHAT TAGS DO
+- data ka meaning  
+- column description  
+- owner info  
+- business context  
 
 💥 sab ek jagah
 
-❌ Avoid
-❌ rename columns
-❌ duplicate data
-❌ extra columns add
+---
+
+## ❌ Avoid
+- ❌ rename columns  
+- ❌ duplicate data  
+- ❌ extra columns add  
 
 👉 messy + inefficient
 
-🔁 MEMORY SHORTCUT
+---
 
-👉
-Data confusion = Add Tags
+## 🔁 MEMORY SHORTCUT
+👉 **Data confusion = Add Tags**
 
-🧪 EXAM TRICK
+---
 
+## 🧪 EXAM TRICK
 👉 Agar question bole:
+- “who owns data”  
+- “what does this column mean”  
+- “searchability issue”  
 
-“who owns data”
-“what does this column mean”
-“searchability issue”
+💡 Answer:  
+👉 **Data Catalog (tags)**
 
-💡 Answer:
-👉 Data Catalog (tags)
+---
 
-🇩🇪 German (short)
+## 🇩🇪 German (short)
+👉 Tags verbessern Auffindbarkeit und Verständnis  
+👉 Metadaten zeigen Ownership und Bedeutung  
 
-👉 Tags verbessern Auffindbarkeit und Verständnis
-👉 Metadaten zeigen Ownership und Bedeutung
+---
 
-🔥 FINAL
+## 🔥 FINAL
+👉 metadata = hidden weapon 💥  
+👉 yeh wale questions easy ho jate hain
+
 
 # Q9: Improving Data Discoverability and Ownership Using Metadata
 

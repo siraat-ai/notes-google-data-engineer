@@ -1,4 +1,4 @@
-🧠# DATA DISCOVERY (SMART NOTES)
+ # 🧠 DATA DISCOVERY (SMART NOTES)
 🔑 Rule
 
 👉 Search + ownership + meaning → Metadata (Tags)

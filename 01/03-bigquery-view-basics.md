@@ -89,95 +89,6 @@ Bhai:
 💥 yeh confusion clear ho gaya = free marks
 
 ---
-Bhai 🔥 yeh **views vs tables** ka important pattern hai — isko short mein lock kar le 👇
-
----
-
-# 🧠 BIGQUERY VIEWS (SMART NOTES)
-
-## 🔑 Rule 1
-
-👉 **Repeated complex queries → View**
-
----
-
-## 🔑 Rule 2
-
-👉 View = **saved query (no data copy)**
-👉 always latest data ✔️
-
----
-
-## 🔑 Rule 3
-
-👉 Analysts:
-
-* sirf view call karte hain
-* complex query likhne ki zarurat nahi
-
----
-
-# ⚡ WHY VIEW (KEY POINT)
-
-👉 Data frequently change ho raha hai 💥
-👉 isliye:
-❌ table copy outdated ho jata
-✔️ view always fresh
-
----
-
-# ❌ Avoid
-
-* ❌ duplicate tables
-* ❌ exporting data
-* ❌ extra storage
-
----
-
-# 🔁 MEMORY SHORTCUT
-
-👉
-**Repeat query = View**
-**Latest data = View**
-
----
-
-# 🧪 EXAM TRICK
-
-👉 Agar bole:
-
-* “same query again & again”
-* “reduce effort”
-* “data changes frequently”
-
-💡 Answer:
-👉 **View**
-
----
-
-# ⚡ QUICK COMPARISON
-
-| Option | Use                 |
-| ------ | ------------------- |
-| View   | dynamic, no storage |
-| Table  | static, stored data |
-
----
-
-# 🇩🇪 German (short)
-
-👉 View = gespeicherte Abfrage (kein Datenkopieren)
-👉 Immer aktuelle Daten für Analysten
-
----
-
-# 🔥 FINAL
-
-Bhai:
-
-👉 View wale questions = easy marks 💥
-
----
 
 ## **Q5: Simplifying Repeated Complex Queries for BigQuery Analysts**
 
@@ -330,6 +241,92 @@ Bhai:
 
 ---
 
+Bhai 🔥 yeh **views vs tables** ka important pattern hai — isko short mein lock kar le 👇
 
+---
+
+# 🧠 BIGQUERY VIEWS (SMART NOTES)
+
+## 🔑 Rule 1
+
+👉 **Repeated complex queries → View**
+
+---
+
+## 🔑 Rule 2
+
+👉 View = **saved query (no data copy)**
+👉 always latest data ✔️
+
+---
+
+## 🔑 Rule 3
+
+👉 Analysts:
+
+* sirf view call karte hain
+* complex query likhne ki zarurat nahi
+
+---
+
+# ⚡ WHY VIEW (KEY POINT)
+
+👉 Data frequently change ho raha hai 💥
+👉 isliye:
+❌ table copy outdated ho jata
+✔️ view always fresh
+
+---
+
+# ❌ Avoid
+
+* ❌ duplicate tables
+* ❌ exporting data
+* ❌ extra storage
+
+---
+
+# 🔁 MEMORY SHORTCUT
+
+👉
+**Repeat query = View**
+**Latest data = View**
+
+---
+
+# 🧪 EXAM TRICK
+
+👉 Agar bole:
+
+* “same query again & again”
+* “reduce effort”
+* “data changes frequently”
+
+💡 Answer:
+👉 **View**
+
+---
+
+# ⚡ QUICK COMPARISON
+
+| Option | Use                 |
+| ------ | ------------------- |
+| View   | dynamic, no storage |
+| Table  | static, stored data |
+
+---
+
+# 🇩🇪 German (short)
+
+👉 View = gespeicherte Abfrage (kein Datenkopieren)
+👉 Immer aktuelle Daten für Analysten
+
+---
+
+# 🔥 FINAL
+
+Bhai:
+
+👉 View wale questions = easy marks 💥
 
 

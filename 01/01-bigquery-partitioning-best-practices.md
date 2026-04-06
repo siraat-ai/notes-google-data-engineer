@@ -1,7 +1,3 @@
-Bhai 🔥 yeh topic **high-frequency exam mein aata hai**, isliye main tujhe **ultra-short smart notes** deta hoon — bas yeh yaad rakh, kaam ho gaya 👇
-
----
-
 # 🧠 BIGQUERY PARTITIONING (SMART NOTES)
 
 ## 🔑 Rule 1

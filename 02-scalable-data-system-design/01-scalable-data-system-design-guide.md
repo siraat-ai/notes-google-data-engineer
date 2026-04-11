@@ -1,7 +1,3 @@
-Love it 👍 — now we make this **clean, global, interview-ready English**.
-
----
-
 # 🌍 What does “Design a Scalable Data System” mean?
 
 👉
@@ -166,6 +162,3 @@ Scalable system design is not just about coding —
 it is about making the right decisions at each step.
 
 ---
-
-If you want next:
-👉 I can give you a **real interview scenario and help you answer it like a pro** 👍

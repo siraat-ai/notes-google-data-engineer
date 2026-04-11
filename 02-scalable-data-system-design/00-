@@ -1,0 +1,129 @@
+# 📁 Folder: `scalable-data-system-design`
+
+## 🧠 CORE (Foundation Files)
+
+1. **scalable-data-system-design-guide.md** ✅ (already done)
+2. **data-engineering-fundamentals.md**
+3. **batch-vs-streaming-architecture.md**
+4. **data-pipeline-design-patterns.md**
+
+---
+
+# ⚙️ GOOGLE CLOUD (VERY IMPORTANT)
+
+5. **google-cloud-data-engineering-stack.md**
+6. **bigquery-architecture-and-best-practices.md**
+7. **dataflow-and-pubsub-explained.md**
+8. **cloud-storage-and-data-lakes.md**
+
+---
+
+# 🏗️ SYSTEM DESIGN (INTERVIEW GOLD)
+
+9. **end-to-end-data-pipeline-design.md**
+10. **design-real-time-data-system.md**
+11. **design-batch-processing-system.md**
+12. **scalability-and-performance-design.md**
+
+---
+
+# 🔄 PIPELINE & ETL (YOUR STRONG AREA)
+
+13. **etl-vs-elt-explained.md**
+14. **incremental-data-loading-strategies.md**
+15. **data-cleaning-and-transformation-techniques.md**
+16. **data-deduplication-strategies.md**
+
+---
+
+# 📊 DATA MODELING (HIGH DEMAND)
+
+17. **data-warehouse-design.md**
+18. **star-schema-vs-snowflake.md**
+19. **partitioning-and-clustering-strategies.md**
+
+---
+
+# ⚡ OPTIMIZATION (INTERVIEW + JOB WINNER)
+
+20. **query-optimization-in-bigquery.md**
+21. **cost-optimization-in-data-systems.md**
+22. **performance-tuning-techniques.md**
+
+---
+
+# 🔐 PRODUCTION LEVEL THINKING
+
+23. **data-security-and-access-control.md**
+24. **error-handling-and-failure-recovery.md**
+25. **data-quality-and-validation.md**
+26. **monitoring-and-logging-in-data-systems.md**
+
+---
+
+# 🤖 AI + FUTURE (YOUR EDGE)
+
+27. **data-engineering-for-ai-systems.md**
+28. **building-agentic-data-pipelines.md**
+29. **self-sustained-data-systems.md**
+
+---
+
+# 💼 CAREER / INTERVIEW (VERY IMPORTANT)
+
+30. **data-engineering-interview-questions.md**
+31. **system-design-interview-answers.md**
+32. **real-world-data-engineering-case-studies.md**
+
+---
+
+# 🔥 TOTAL FILES
+
+👉 Around **30–32 files**
+
+---
+
+# 🎯 Strategy (VERY IMPORTANT)
+
+👉 Abhi sab mat banao
+
+## Phase 1 (Start here – 5 files only):
+
+* fundamentals
+* batch vs streaming
+* bigquery
+* ETL vs ELT
+* incremental loading
+
+---
+
+## Phase 2:
+
+* system design
+* optimization
+* modeling
+
+---
+
+## Phase 3:
+
+* AI + advanced
+
+---
+
+# 💬 Final Truth
+
+👉 Agar aap ye complete kar lete ho:
+
+🔥 Ye ban jayega:
+
+* Portfolio
+* Notes
+* Interview prep
+* Freelance asset
+
+👉 Ek hi jagah se sab cover
+
+---
+
+
